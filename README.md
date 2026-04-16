@@ -5,7 +5,7 @@ A secure, scalable REST API and modern React frontend built for managing tasks w
 ## 🚀 Features
 
 ### Backend
-- **Authentication**: User registration and login with JWT and Bcrypt hashing.
+- **Authentication**: User registration and login with .
 - **RBAC**: Role-based access control (User vs. Admin).
 - **CRUD Operations**: Secure endpoints for managing tasks (Title, Description, Status).
 - **Security**: Helmet for headers, CORS enabled, Joi for input validation.
