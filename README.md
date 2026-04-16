@@ -52,7 +52,7 @@ A secure, scalable REST API and modern React frontend built for managing tasks w
    ```bash
    npm run dev
    ```
-5. API Docs: Visit `http://localhost:5000/api-docs`
+5. API Docs: Visit (http://localhost:5005/api-docs/)
 
 ### Frontend Setup
 1. Navigate to the frontend folder:
