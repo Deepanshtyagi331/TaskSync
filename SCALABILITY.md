@@ -8,7 +8,7 @@ To ensure this application can handle millions of users and high traffic, the fo
 
 ## 2. Database Scaling
 - **Database Indexing**: Ensure compound indexes on frequently queried fields like `user` and `status` in the Tasks collection.
-- **Read Replicas**: Use MongoDB Atlas clusters with read-replicas to offload read traffic from the primary node.
+- **Read Replicas**: Use MongoDB Atlas clusteh read-replicas to offload read traffic from the primary node.
 - **Caching**: Implement **Redis** for:
     - Caching user profiles and JWT blacklists.
     - Rate limiting to prevent Brute Force or DDoS attacks.
